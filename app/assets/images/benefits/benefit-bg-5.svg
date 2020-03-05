@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="214px" height="318px" viewBox="0 0 214 318" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60 (88103) - https://sketch.com -->
+    <title>Asset 8</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="42.340347%" y1="7.28650799%" x2="57.0727206%" y2="76.8265987%" id="linearGradient-1">
+            <stop stop-color="#1F95FF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#DAFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="33.1791908%" y1="-29.8618015%" x2="71.6377649%" y2="152.727473%" id="linearGradient-2">
+            <stop stop-color="#1F95FF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#DAFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="42.8219178%" y1="8.14197579%" x2="61.0502283%" y2="93.891538%" id="linearGradient-3">
+            <stop stop-color="#1F95FF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#DAFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="39.5159817%" y1="-7.40795872%" x2="57.7442922%" y2="78.3416036%" id="linearGradient-4">
+            <stop stop-color="#1F95FF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#DAFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="46.5706903%" y1="26.8500518%" x2="61.3067553%" y2="109.827368%" id="linearGradient-5">
+            <stop stop-color="#1F95FF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#DAFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="46.4063927%" y1="24.0349591%" x2="64.630137%" y2="130.635686%" id="linearGradient-6">
+            <stop stop-color="#1F95FF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#DAFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="43.1004566%" y1="4.70384796%" x2="61.3242009%" y2="111.304575%" id="linearGradient-7">
+            <stop stop-color="#1F95FF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#DAFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="46.1340515%" y1="0.322436979%" x2="70.0179533%" y2="189.801707%" id="linearGradient-8">
+            <stop stop-color="#1F95FF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#DAFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="41.8013166%" y1="-34.0379743%" x2="65.6912029%" y2="155.441296%" id="linearGradient-9">
+            <stop stop-color="#1F95FF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#DAFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="37.4685817%" y1="-68.4041986%" x2="61.358468%" y2="121.075071%" id="linearGradient-10">
+            <stop stop-color="#1F95FF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#DAFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.74">
+        <g id="Optimize-benefits-of-time-tracking" transform="translate(-1070.000000, -1253.000000)" fill-rule="nonzero">
+            <g id="Asset-8" transform="translate(1070.000000, 1253.000000)">
+                <g id="Page-1">
+                    <g id="Asset-8">
+                        <polygon id="Shape" fill="url(#linearGradient-1)" style="mix-blend-mode: overlay;" points="41.5411765 194.587593 0.708088235 218.102233 170.830221 317.400298 213.842647 292.702035 213.842647 245.357122 170.830221 270.055385"></polygon>
+                        <polygon id="Shape" fill="url(#linearGradient-2)" style="mix-blend-mode: overlay;" points="41.5411765 147.24268 0.708088235 170.75732 41.5411765 194.587593 82.3742647 171.080844"></polygon>
+                        <polygon id="Shape" fill="url(#linearGradient-3)" style="mix-blend-mode: overlay;" points="82.3742647 171.080844 41.5411765 194.587593 170.830221 270.055385 213.842647 245.357122 213.842647 198.012208 170.830221 222.710471"></polygon>
+                        <polygon id="Shape" fill="url(#linearGradient-4)" style="mix-blend-mode: overlay;" points="82.3742647 171.080844 41.5411765 194.587593 170.830221 270.055385 213.842647 245.357122 213.842647 198.012208 170.830221 222.710471"></polygon>
+                        <polygon id="Shape" fill="url(#linearGradient-5)" style="mix-blend-mode: overlay;" points="41.5411765 147.24268 213.842647 48.0393052 213.842647 0.69439206 0.708088235 123.412407"></polygon>
+                        <polygon id="Shape" fill="url(#linearGradient-6)" style="mix-blend-mode: overlay;" points="82.3742647 171.080844 213.842647 95.3842184 213.842647 48.0393052 41.5411765 147.24268"></polygon>
+                        <polygon id="Shape" fill="url(#linearGradient-7)" style="mix-blend-mode: overlay;" points="82.3742647 171.080844 213.842647 95.3842184 213.842647 48.0393052 41.5411765 147.24268"></polygon>
+                        <polygon id="Shape" fill="url(#linearGradient-8)" style="mix-blend-mode: overlay;" points="170.830221 222.710471 213.842647 198.012208 213.842647 95.3842184 82.3742647 171.080844"></polygon>
+                        <polygon id="Shape" fill="url(#linearGradient-9)" style="mix-blend-mode: overlay;" points="170.830221 222.710471 213.842647 198.012208 213.842647 95.3842184 82.3742647 171.080844"></polygon>
+                        <polygon id="Shape" fill="url(#linearGradient-10)" style="mix-blend-mode: overlay;" points="170.830221 222.710471 213.842647 198.012208 213.842647 95.3842184 82.3742647 171.080844"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="268px" height="276px" viewBox="0 0 268 276" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60 (88103) - https://sketch.com -->
+    <title>Asset 15</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="41.1499145%" y1="49.2753377%" x2="76.7856567%" y2="52.2485025%" id="linearGradient-1">
+            <stop stop-color="#EBF1F4" offset="0%"></stop>
+            <stop stop-color="#E5ECF2" offset="30%"></stop>
+            <stop stop-color="#D3E0EB" offset="69%"></stop>
+            <stop stop-color="#C1D2E4" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="116.078265%" y1="37.9333456%" x2="-139.34496%" y2="84.5878964%" id="linearGradient-2">
+            <stop stop-color="#014C6E" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="66.7989307%" y1="63.2372647%" x2="19.1212096%" y2="25.6710438%" id="linearGradient-3">
+            <stop stop-color="#014C6E" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="44.7317564%" y1="26.7808496%" x2="56.167645%" y2="77.1679029%" id="linearGradient-4">
+            <stop stop-color="#1F95FF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#DAFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Optimize-benefits-of-time-tracking" transform="translate(-850.000000, -3179.000000)" fill-rule="nonzero">
+            <g id="Asset-15" transform="translate(850.000000, 3135.000000)">
+                <polygon id="Shape" fill="#0000FF" opacity="0.19" style="mix-blend-mode: multiply;" points="0 283.921216 60.8199671 319 267 200.673778 205.344878 165"></polygon>
+                <polygon id="Shape" fill="url(#linearGradient-1)" points="0 246.927875 60.8199671 282 267 163.675776 205.344878 128"></polygon>
+                <polygon id="Shape" fill="url(#linearGradient-2)" points="61 288 0 252.696368 0 247 61 282.312289"></polygon>
+                <polygon id="Shape" fill="url(#linearGradient-3)" points="61 287 61 281.3425 268 163 267.870312 168.700556"></polygon>
+                <polygon id="Shape" fill="url(#linearGradient-4)" opacity="0.6" style="mix-blend-mode: overlay;" points="1 284.931625 61.4936697 320 268 201.563318 268 35.0079568 203.910342 0 3.02651637 117.349157"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
