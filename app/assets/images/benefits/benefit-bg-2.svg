@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="269px" height="339px" viewBox="0 0 269 339" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60 (88103) - https://sketch.com -->
+    <title>Asset 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="45.6512248%" y1="26.1826707%" x2="55.1057511%" y2="77.9399992%" id="linearGradient-1">
+            <stop stop-color="#1F95FF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#DAFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="41.1487599%" y1="49.2771614%" x2="76.7864237%" y2="52.2403912%" id="linearGradient-2">
+            <stop stop-color="#EBF1F4" offset="0%"></stop>
+            <stop stop-color="#E5ECF2" offset="30%"></stop>
+            <stop stop-color="#D3E0EB" offset="69%"></stop>
+            <stop stop-color="#C1D2E4" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="116.082346%" y1="37.9560183%" x2="-139.33874%" y2="84.4909161%" id="linearGradient-3">
+            <stop stop-color="#014C6E" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="66.7977652%" y1="63.3367829%" x2="19.1207822%" y2="25.4842287%" id="linearGradient-4">
+            <stop stop-color="#014C6E" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.53">
+        <g id="Optimize-benefits-of-time-tracking" transform="translate(-595.000000, -808.000000)" fill-rule="nonzero">
+            <g id="Asset-4" transform="translate(595.000000, 747.000000)">
+                <g id="Group">
+                    <polygon id="Shape" fill="url(#linearGradient-1)" opacity="0.6" points="0 362.5 60.4075493 397.469697 266.590366 279.356061 266.590366 34.9166667 202.598676 0 2.0231831 117.037879"></polygon>
+                    <polygon id="Shape" fill="#0000FF" opacity="0.19" style="mix-blend-mode: multiply;" points="1.83374648 364.287879 62.6580563 399.30303 268.848451 281.181818 207.19062 245.568182"></polygon>
+                    <polygon id="Shape" fill="url(#linearGradient-2)" points="1.83374648 326.409091 62.6580563 361.424242 268.848451 243.30303 207.19062 207.689394"></polygon>
+                    <polygon id="Shape" fill="url(#linearGradient-3)" points="62.7944507 367.121212 2.06107042 332.007576 2.06107042 326.356061 62.7944507 361.462121"></polygon>
+                    <polygon id="Shape" fill="url(#linearGradient-4)" points="62.7944507 367.121212 62.7944507 361.462121 268.946958 243.159091 268.818141 248.848485"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
